@@ -1,4 +1,4 @@
-<h3> Hey there👋! I'm Joshua Jateno</h2>
+<h2> Hey there👋! I'm Joshua Jateno</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
