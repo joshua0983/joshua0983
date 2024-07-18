@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Vassar College.
-- 💼 &nbsp; Learning Full-Stack and developing Full-Stack applications.
+- 💼 &nbsp; Learning Full-Stack and developing innovative applications.
 
 <br>
 
