@@ -1,6 +1,6 @@
 # Hey there👋! I'm Joshua Jateno
 
-## 👨🏻‍💻 &nbsp;About Me 
+## 👨🏽‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Vassar College.
